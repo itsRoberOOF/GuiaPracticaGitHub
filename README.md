@@ -1,6 +1,6 @@
 # 📘 Guía practica de GitHub - Ayudantía 2 :octocat:
 
-## 🧩 Ejercicios
+## 🧩 Ejerciciosa
 
 - 📥**Ejercicio 1 - Clonar un repositorio**:
   * Clona este repositorio en tu computadora
