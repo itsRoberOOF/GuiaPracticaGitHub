@@ -7,7 +7,10 @@
 
 - ✨**Ejercicio 2 - Crea tu propio repositorio**:
   * En tu cuenta de GitHub, crea un repositorio llamado **GuiaGitHub[tu-carnet]**
-  * Clona el repositorio que acabas de crear en tu computadora, luego copia dentro los archivos que clonaste del repositorio del ejercicio 1
+  * Clona este repositorio que acabas de crear en tu computadora
+  * Mueve los archivos de la carpeta del repositorio de la guía (repositorio del ejercicio 1) a la carpeta del repositorio con tu carnet (repositorio del ejercicio 2)
+    
+      > ⭐GitHub ya detectará los cambios con estos archivos, pero se enviarán al repositorio remoto en el siguiente paso. De acá en adelante todos los ejercicios se realizarán en el repositorio creado en este paso.
 
 - 📸**Ejercicio 3 - Commit**:
   * Crea un archivo llamado **ejercicio3.py**, que imprima: 'Mi nombre es [tu-nombre] y este es mi primer repositorio en GitHub'
